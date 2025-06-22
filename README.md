@@ -24,12 +24,14 @@ A medication management system designed for both patients and caretakers. This a
 ```bash
 cd backend
 npm install
-node index.js```
+node index.js
+```
 
 ### Frontend
 
 ```cd frontend
 npm install
-npm run dev```
+npm run dev
+```
 
 
